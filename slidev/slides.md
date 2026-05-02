@@ -5,7 +5,7 @@ theme: ../Slidev-Vorlage
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
+title: Wie wir ein  Produkt zu 100% mit KI entwickelt haben - und warum es trotzdem funktioniert hat
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
@@ -23,9 +23,14 @@ comark: true
 # duration of the presentation
 duration: 35min
 layout: cover
+lineNumbers: true
 ---
 
-# Cover
+# Wie wir ein  Produkt zu 100% mit KI entwickelt haben - und warum es trotzdem funktioniert hat
+
+---
+src: ./pages/public-site-error.md
+---
 
 ---
 layout: section
