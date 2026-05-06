@@ -2,6 +2,22 @@
 layout: center
 ---
 
+<style>
+.slidev-layout table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.slidev-layout th,
+.slidev-layout td {
+	padding: 4px;
+}
+
+.slidev-layout th {
+	background-color: var(--bh-light-blue);
+}
+</style>
+
 # Unterschied zwischen Spec-Driven Development vs. Vibe-Coding
 
 | Feature | Vibe-Coding | Spec-Driven Development |

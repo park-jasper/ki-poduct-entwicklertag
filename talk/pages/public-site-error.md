@@ -44,3 +44,5 @@ image: /images/registration-public-site-com.png
 
 backgroundSize: 80%
 ---
+
+<arrow v-click x1="450" y1="420" x2="310" y2="448" color="var(--bh-dark-blue)" width="2" />
